@@ -1,6 +1,10 @@
 # ServerReloader - An easy way to restart your web server when hot deployment is missing, e.g., Jetty
 ServerReloader monitoring a specified src folder and restarts the server when detects changes, e.g, on Jetty web server.
 
+
+# Youtube
+Click [here](https://www.youtube.com/watch?v=iTK5W-AcH6k) to see a set up video 
+
 # Usecases
 Have you ever used [Java Spark](https://sparkjava.com/) or [Javalin](https://javalin.io/) web framework to build a web applications?
 These two frameworks ships and uses the Jetty (embedded) webserver.
