@@ -3,7 +3,7 @@ ServerReloader monitoring a specified src folder and restarts the server when de
 
 
 # Youtube
-Click [here](https://www.youtube.com/watch?v=iTK5W-AcH6k) to see a set up video 
+Click [here](https://youtu.be/nXHWM-g731U) to see a set up video 
 
 # Usecases
 Have you ever used [Java Spark](https://sparkjava.com/) or [Javalin](https://javalin.io/) web framework to build a web applications?
